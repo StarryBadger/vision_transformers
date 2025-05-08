@@ -185,5 +185,5 @@ This project generates various outputs, including:
     *   "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale" (Dosovitskiy et al., 2020)
     *   "Emerging Properties in Self-Supervised Vision Transformers" (Caron et al., DINO, 2021)
     *   "Learning Transferable Visual Models From Natural Language Supervision" (Radford et al., CLIP, 2021)
-    *   The Differential Transformer paper (as referenced in the assignment: arXiv:2410.05258 - *please update if this is a placeholder or you have the final reference*).
-*   The initial structure and tasks were part of an assignment for the "Computer Vision - Spring 25" course. (Optional: Add instructor names if appropriate and desired).
+    *   "Differential Transformer" (Ye et al,, 2025)
+*   The initial structure and tasks were part of an assignment for the "Computer Vision - Spring 25" course.
